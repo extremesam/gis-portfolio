@@ -17,7 +17,7 @@ To visualize population distribution across Lagos using raster population data.
 4. Produce choropleth map
 
 ## Outputs
-(To be added)
+![Lagos Population Map](outputs/lagos_population_map.png)
 
 ## Notes
 Initial project setup complete. Data acquisition next.
