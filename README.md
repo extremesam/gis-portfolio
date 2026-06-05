@@ -8,7 +8,7 @@ A collection of geospatial analysis and mapping projects focused on urban system
 - Type: Thematic Mapping (Choropleth)
 - Tools: QGIS, Python
 - Summary: Visualization of population distribution across Lagos using raster and administrative boundary data.
-
+- Insoght: Population density is highest in mainland Lagos, indicating pressure on infrastructure and services in these zones.
 [View Project](./projects/lagos-population-density)
 
 ---
@@ -25,3 +25,8 @@ A collection of geospatial analysis and mapping projects focused on urban system
 - QGIS
 - Python (GeoPandas, Rasterio)
 - PostGIS (upcoming)
+
+---
+
+## Outputs
+![Lagos Population Map](outputs/lagos_population_map.png)
