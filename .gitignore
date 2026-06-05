@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# QGIS temp files
+*.qgs~
+*.qgz~
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Large data (optional)
+data/raw/*
